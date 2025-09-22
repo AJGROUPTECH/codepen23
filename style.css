@@ -312,27 +312,27 @@
     border-radius: 2px;
 }
 .skills .html::before{
-    width: 80%;
+    width: 20%;
     background: #E45126;
 
 }
 .skills .css::before{
-    width: 55%;
+    width: 15%;
     background: #30DD6D;
 
 }
 .skills .Java::before{
-    width: 12%;
+    width: 2%;
     background: #f7f7f7;
 
 }
 .skills .query::before{
-    width: 30%;
+    width: 12%;
     background: #E3A324;
 
 }
 .skills .php::before{
-    width: 50%;
+    width: 20%;
     background: #d1df11;
 
 
